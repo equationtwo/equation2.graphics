@@ -1,0 +1,18 @@
+Title: Next
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+<li>My.ConceptDraw.com
+<dt>Nov 1</dt></li>
+<li>Buy.ConceptDraw.com<dt>Dec 1</dt></li>
+<li>Planner<dt>Jan 13 2015</dt></li>
+
+----
+
+Tags: 

@@ -1,0 +1,17 @@
+Title: Design Elements
+
+----
+
+Author: AY
+
+----
+
+Description: 
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright: © 2009-(date: Year) CS Odessa

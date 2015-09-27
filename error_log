@@ -1,0 +1,1171 @@
+[26-Sep-2015 21:14:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/kvrdkrht/public_html/site/snippets/projects.php on line 14
+[27-Sep-2015 12:56:30 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/kvrdkrht/public_html/site/templates/home.php on line 10
+[27-Sep-2015 12:56:36 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/kvrdkrht/public_html/site/templates/home.php on line 10
+[27-Sep-2015 12:57:03 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/kvrdkrht/public_html/site/templates/home.php on line 10
+[27-Sep-2015 12:57:28 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting '(' in /home/kvrdkrht/public_html/site/templates/home.php on line 10
+[27-Sep-2015 12:58:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kvrdkrht/public_html/site/templates/home.php on line 17
+[27-Sep-2015 13:00:39 UTC] PHP Notice:  Undefined variable: user in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:00:39 UTC] PHP Notice:  Undefined variable: user in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:00:39 UTC] PHP Notice:  Undefined variable: user in /home/kvrdkrht/public_html/site/templates/home.php on line 13
+[27-Sep-2015 13:00:39 UTC] PHP Notice:  Undefined variable: user in /home/kvrdkrht/public_html/site/templates/home.php on line 13
+[27-Sep-2015 13:02:10 UTC] PHP Fatal error:  Function name must be a string in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:02:50 UTC] PHP Fatal error:  Function name must be a string in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:03:42 UTC] PHP Fatal error:  Function name must be a string in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:03:52 UTC] PHP Fatal error:  Function name must be a string in /home/kvrdkrht/public_html/site/templates/home.php on line 9
+[27-Sep-2015 13:04:47 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/kvrdkrht/public_html/site/templates/home.php on line 11
+[27-Sep-2015 13:20:44 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/kvrdkrht/public_html/site/snippets/header.php on line 30
+[27-Sep-2015 13:20:46 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/kvrdkrht/public_html/site/snippets/header.php on line 30
+[27-Sep-2015 13:21:18 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/kvrdkrht/public_html/site/snippets/header.php on line 30
+[27-Sep-2015 13:21:55 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/kvrdkrht/public_html/site/snippets/header.php on line 24
+[27-Sep-2015 18:01:00 UTC] PHP Notice:  Undefined variable: project in /home/kvrdkrht/public_html/site/templates/home.php on line 16
+[27-Sep-2015 18:01:00 UTC] PHP Fatal error:  Call to a member function title() on a non-object in /home/kvrdkrht/public_html/site/templates/home.php on line 16
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:27:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:28:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 13
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:29:50 UTC] PHP Fatal error:  Call to a member function children() on a non-object in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 11
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:30:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:31:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:43:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, object given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 12
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Notice:  Array to string conversion in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:49:10 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:50:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:51:33 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:32 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Notice:  Undefined offset: 1 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:52 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Notice:  Undefined offset: 2 in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 15
+[27-Sep-2015 18:52:55 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:52:55 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Deprecated:  Function split() is deprecated in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  split(): REG_EMPTY in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 18:54:16 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 16
+[27-Sep-2015 19:07:22 UTC] PHP Fatal error:  Call to a member function title() on a non-object in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 24
+[27-Sep-2015 19:07:56 UTC] PHP Fatal error:  Call to a member function title() on a non-object in /home/kvrdkrht/public_html/site/snippets/dashboard.php on line 26

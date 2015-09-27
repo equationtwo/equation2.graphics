@@ -1,0 +1,19 @@
+Title: Next
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+<li>Mindmap X
+<dt>Nov 1</dt></li>
+<li>Project X <dt>Dec 1</dt></li>
+<li>Home X <dt>Jan 13 2016</dt></li>
+
+
+----
+
+Tags: 
